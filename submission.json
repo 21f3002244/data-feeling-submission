@@ -1,0 +1,7 @@
+{
+  "prompt": "A highly detailed aerial view of a vast, ancient river system branching out like veins. The left side is a vibrant, dense, deep emerald green rainforest canopy teeming with life. As the river flows to the right, the green violently fractures into an advancing, rigid, ash-grey geometric grid of dry, cracked earth and smoldering stumps. The transition is stark and aggressive, representing the consumption of the natural world by artificial, lifeless structures. The image feels tragic and irreversible. No text, no charts, single frame.",
+  "model": "Imagen 3",
+  "dataset_name": "PRODES Amazon Deforestation Rates",
+  "dataset_url": "http://terrabrasilis.dpi.inpe.br/app/dashboard/deforestation/biomes/amazon/increments",
+  "insight": "Over the past decades, the vast, living structure of the Amazon rainforest has been systematically devoured and replaced by stark, lifeless geometric grids of destruction."
+}
